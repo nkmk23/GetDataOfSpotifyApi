@@ -1,3 +1,0 @@
-C:\nicosandovalr\SpotifyApi\SpotifyApi\obj\Debug\SpotifyApi.njsproj.AssemblyReference.cache
-C:\nicosandovalr\SpotifyApi\SpotifyApi\obj\Debug\SpotifyApi.njsproj.CoreCompileInputs.cache
-C:\nicosandovalr\SpotifyApi\SpotifyApi\bin\Microsoft.NodejsTools.WebRole.dll
